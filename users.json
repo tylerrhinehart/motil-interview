@@ -1,0 +1,40 @@
+[
+    {
+        "firstName": "Luke",
+        "lastName": "Skywalker",
+        "faction": "Jedi"
+    },
+    {
+        "firstName": "Obiwan",
+        "lastName": "Kenobi",
+        "faction": "Jedi"
+    },
+    {
+        "firstName": "Darth",
+        "lastName": "Vader",
+        "faction": "Sith"
+    },
+    {
+        "firstName": "Anakin",
+        "lastName": "Skywalker",
+        "faction": "Jedi"
+    },
+    {
+        "firstName": "Yoda",
+        "faction": "Jedi"
+    },
+    {
+        "firstName": "Emporer",
+        "lastName": "Palpatine",
+        "faction": "Sith"
+    },
+    {
+        "firstName": "Princess",
+        "lastName": "Leia",
+        "faction": "Jedi"
+    },{
+        "firstName": "Kylo",
+        "lastName": "Ren",
+        "faction": "Sith"
+    }
+]
